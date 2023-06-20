@@ -1,4 +1,5 @@
 TARGET=ar71xx
+TARGET=armvirt
 TARGET=ath79
 TARGET=ramips-mt7620
 TARGET=ramips-mt7621
